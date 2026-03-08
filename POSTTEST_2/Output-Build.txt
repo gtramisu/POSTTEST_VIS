@@ -1,0 +1,5 @@
+﻿Build started at 2:14 PM...
+1>------ Build started: Project: POSTTEST_2, Configuration: Debug Any CPU ------
+1>C:\Users\naaga\OneDrive\Documents\POSTTEST_VIS\POSTTEST_2\My Project\Application.Designer.vb(35,27): error BC30456: 'Form1' is not a member of 'POSTTEST_2'.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:14 PM and took 00.281 seconds ==========
